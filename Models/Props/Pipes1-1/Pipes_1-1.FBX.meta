@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: b258ee83a31831741b244d3236a9a3c7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Pipe_1m
+    100002: Pipe_3m
+    100004: Pipe_3way
+    100006: Pipe_4way
+    100008: Pipe_90degreedLong
+    100010: Pipe_90degrees
+    100012: Pipe_crane
+    100014: Pipe_craneBase
+    100016: Pipe_support
+    100018: //RootNode
+    100020: Pipe_Shift
+    100022: Pipe_3wayShort
+    400000: Pipe_1m
+    400002: Pipe_3m
+    400004: Pipe_3way
+    400006: Pipe_4way
+    400008: Pipe_90degreedLong
+    400010: Pipe_90degrees
+    400012: Pipe_crane
+    400014: Pipe_craneBase
+    400016: Pipe_support
+    400018: //RootNode
+    400020: Pipe_Shift
+    400022: Pipe_3wayShort
+    2300000: Pipe_1m
+    2300002: Pipe_3m
+    2300004: Pipe_3way
+    2300006: Pipe_4way
+    2300008: Pipe_90degreedLong
+    2300010: Pipe_90degrees
+    2300012: Pipe_crane
+    2300014: Pipe_craneBase
+    2300016: Pipe_support
+    2300018: Pipe_Shift
+    2300020: Pipe_3wayShort
+    3300000: Pipe_1m
+    3300002: Pipe_3m
+    3300004: Pipe_3way
+    3300006: Pipe_4way
+    3300008: Pipe_90degreedLong
+    3300010: Pipe_90degrees
+    3300012: Pipe_crane
+    3300014: Pipe_craneBase
+    3300016: Pipe_support
+    3300018: Pipe_Shift
+    3300020: Pipe_3wayShort
+    4300000: Pipe_1m
+    4300002: Pipe_3m
+    4300004: Pipe_3way
+    4300006: Pipe_90degrees
+    4300008: Pipe_4way
+    4300010: Pipe_support
+    4300012: Pipe_craneBase
+    4300014: Pipe_crane
+    4300016: Pipe_90degreedLong
+    4300018: Pipe_Shift
+    4300020: Pipe_3wayShort
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - FocalLength
+    - FilmWidth
+    - FilmHeight
+    - NearPlane
+    - FarPlane
+    - CameraProjectionType
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.8
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 80
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

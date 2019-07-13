@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1849246760576290}
+  m_IsPrefabAsset: 1
+--- !u!1 &1849246760576290
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4234022371131846}
+  - component: {fileID: 114473382188413888}
+  m_Layer: 0
+  m_Name: BuilderEngineParking
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &4234022371131846
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1849246760576290}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.6611252, y: 0.32544327, z: 1.9635725}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114473382188413888
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1849246760576290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aae4512b1419d8b49a941b413af3d344, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  walls:
+  - {fileID: 0}
+  - {fileID: 100000, guid: d793374fc6235e54c8d11fe5b9bf8098, type: 3}
+  - {fileID: 100000, guid: aa546c730fe028f428fa0473f48cd5ef, type: 3}
+  - {fileID: 100000, guid: 8327898236baff94a8672343142c2aca, type: 3}
+  wall_materials:
+  - {fileID: 0}
+  - {fileID: 2100000, guid: adb328a9c0ce78145aba06e2b4bf4bc5, type: 2}
+  - {fileID: 2100000, guid: bd6a42951df4db049a4b46d131f13520, type: 2}
+  - {fileID: 2100000, guid: b5612f70a6c32dd45b4120fd23778895, type: 2}
+  - {fileID: 2100000, guid: 48f7c52283b4f7f40b34eedb149a43f3, type: 2}
+  - {fileID: 2100000, guid: 87996b4c4e3e4ea469738a753632ac23, type: 2}
+  - {fileID: 2100000, guid: b795ba1d657c3434caac3aa7d0eaea89, type: 2}
+  - {fileID: 2100000, guid: d5cb8c76c40c22d4aa0e4f2814c7d71a, type: 2}
+  - {fileID: 2100000, guid: fb825c03056218b429f23dedd2f1f517, type: 2}
+  - {fileID: 2100000, guid: 9729c4fcd8567194fa40bde755f335e3, type: 2}
+  - {fileID: 2100000, guid: b121c5df2387a0b40a4dbbf466d0781f, type: 2}
+  - {fileID: 2100000, guid: c6aba86eaeddc444fb9fb79a1b55d840, type: 2}
+  - {fileID: 2100000, guid: a629633b9c636734492d7e83b24dbc57, type: 2}
+  - {fileID: 2100000, guid: 82b998d41e922e2419947092a0e35748, type: 2}
+  ground:
+  - {fileID: 0}
+  - {fileID: 100000, guid: 71de5697a646ece48abb2bec2c753dea, type: 3}
+  ground_materials:
+  - {fileID: 0}
+  - {fileID: 2100000, guid: adb328a9c0ce78145aba06e2b4bf4bc5, type: 2}
+  - {fileID: 2100000, guid: bd6a42951df4db049a4b46d131f13520, type: 2}
+  - {fileID: 2100000, guid: b5612f70a6c32dd45b4120fd23778895, type: 2}
+  - {fileID: 2100000, guid: 48f7c52283b4f7f40b34eedb149a43f3, type: 2}
+  - {fileID: 2100000, guid: 87996b4c4e3e4ea469738a753632ac23, type: 2}
+  - {fileID: 2100000, guid: b795ba1d657c3434caac3aa7d0eaea89, type: 2}
+  - {fileID: 2100000, guid: d5cb8c76c40c22d4aa0e4f2814c7d71a, type: 2}
+  - {fileID: 2100000, guid: fb825c03056218b429f23dedd2f1f517, type: 2}
+  - {fileID: 2100000, guid: 9729c4fcd8567194fa40bde755f335e3, type: 2}
+  - {fileID: 2100000, guid: b121c5df2387a0b40a4dbbf466d0781f, type: 2}
+  - {fileID: 2100000, guid: c6aba86eaeddc444fb9fb79a1b55d840, type: 2}
+  - {fileID: 2100000, guid: a629633b9c636734492d7e83b24dbc57, type: 2}
+  - {fileID: 2100000, guid: 82b998d41e922e2419947092a0e35748, type: 2}
+  ceiling:
+  - {fileID: 0}
+  - {fileID: 100000, guid: d5c617aee1cbe9f448bf0df18206a08d, type: 3}
+  ceiling_materials:
+  - {fileID: 0}
+  - {fileID: 2100000, guid: adb328a9c0ce78145aba06e2b4bf4bc5, type: 2}
+  - {fileID: 2100000, guid: bd6a42951df4db049a4b46d131f13520, type: 2}
+  - {fileID: 2100000, guid: b5612f70a6c32dd45b4120fd23778895, type: 2}
+  - {fileID: 2100000, guid: 48f7c52283b4f7f40b34eedb149a43f3, type: 2}
+  - {fileID: 2100000, guid: 87996b4c4e3e4ea469738a753632ac23, type: 2}
+  - {fileID: 2100000, guid: b795ba1d657c3434caac3aa7d0eaea89, type: 2}
+  - {fileID: 2100000, guid: d5cb8c76c40c22d4aa0e4f2814c7d71a, type: 2}
+  - {fileID: 2100000, guid: fb825c03056218b429f23dedd2f1f517, type: 2}
+  - {fileID: 2100000, guid: 9729c4fcd8567194fa40bde755f335e3, type: 2}
+  - {fileID: 2100000, guid: b121c5df2387a0b40a4dbbf466d0781f, type: 2}
+  - {fileID: 2100000, guid: c6aba86eaeddc444fb9fb79a1b55d840, type: 2}
+  - {fileID: 2100000, guid: a629633b9c636734492d7e83b24dbc57, type: 2}
+  - {fileID: 2100000, guid: 82b998d41e922e2419947092a0e35748, type: 2}
+  stair:
+  - {fileID: 0}
+  - {fileID: 1863951592359780, guid: 6ba4ef8ddf1a78d44bed954c021bded9, type: 2}
+  stair_materials:
+  - {fileID: 0}
+  - {fileID: 2100000, guid: adb328a9c0ce78145aba06e2b4bf4bc5, type: 2}
+  - {fileID: 2100000, guid: bd6a42951df4db049a4b46d131f13520, type: 2}
+  - {fileID: 2100000, guid: b5612f70a6c32dd45b4120fd23778895, type: 2}
+  - {fileID: 2100000, guid: 48f7c52283b4f7f40b34eedb149a43f3, type: 2}
+  - {fileID: 2100000, guid: 87996b4c4e3e4ea469738a753632ac23, type: 2}
+  - {fileID: 2100000, guid: b795ba1d657c3434caac3aa7d0eaea89, type: 2}
+  - {fileID: 2100000, guid: d5cb8c76c40c22d4aa0e4f2814c7d71a, type: 2}
+  - {fileID: 2100000, guid: fb825c03056218b429f23dedd2f1f517, type: 2}
+  - {fileID: 2100000, guid: 9729c4fcd8567194fa40bde755f335e3, type: 2}

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4a3d3342ae9b8444599c9fa1549663fa
+timeCreated: 1487704146
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Photoshop Boruto
+  fontNames:
+  - Photoshop Boruto
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

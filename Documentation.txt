@@ -1,0 +1,45 @@
+Camera need 'Post Processing Stack' - free on AssetStore.
+
+Activate all GO in explore asset process. Don forget, you can use some hints to optimize your scene.
+
+Build stage props in other GO, rebuild stage delete all Stage Child!
+
+Asset contain fast and simple tools to build your parking.
+Just drag&drop:
+- stage prefab to build room by script
+- stairs prefab to build your custom stairs by script
+- column prefab to fit it to room by script
+
+You can use Modular Builder Helper(in transform inspector) for build room or create room prop(eg column, markers, etc)
+
+All tools is intuitively clear. Also you can watch Demo_Scene to take experience.
+
+Close&Open elevator by backspace button.
+
+Prop named "*_simple" use 'SolidColorProp' material and rendrering by 1 draw call.
+
+
+changelog
+v1.1
+- Change Beta Effects to Post Processing Stack
+- 4 new HQ global material (for wall/column/ground/ceiling)
+- Elevator
+- Fire Axe
+- new marking
+- Corner Limiter
+- Signs
+- Tire Tracks
+- Firehose box
+- new pipe (pipe simple - use 'SolidColorProps' mat and recomended for mobile, pipe1-1 is Desktop)
+- new Ventilation Box (ventilarion box simple - use 'SolidColorProps' mat and recomended for mobile, ventilation_box1-1 is Desktop)
+- Extinguisher
+- new columns
+- new lamp
+
+v1.2
+-relight
+-some scene optimization
+-ventilation cooler
+-secure camera
+-wall3x3
+-Elevator from ModularIt! Elevator Plus System

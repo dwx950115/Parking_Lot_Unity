@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 02f038410bb076648b54bb97ee1fbfbb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Electric_track_1way
+    100002: Electric_track_1way1
+    100004: Electric_track_1wayCorner
+    100006: Electric_track_1wayCorner1
+    100008: Electric_track_1wayDirect
+    100010: Electric_track_2way
+    100012: Electric_track_2way1
+    100014: Electric_track_2way2
+    100016: Electric_track_2wayCorner
+    100018: Electric_track_2wayCorner1
+    100020: Electric_track_2wayDirect
+    100022: Electric_track_3way
+    100024: Electric_track_3way1
+    100026: Electric_track_3wayCorner
+    100028: Electric_track_3wayCorner1
+    100030: Electric_track_3wayDirect
+    100032: Electric_track_4way
+    100034: Electric_track_4way1
+    100036: Electric_track_4wayCorner
+    100038: Electric_track_4wayCorner 1
+    100040: Electric_track_4wayCorner1
+    100042: Electric_track_4wayDirect
+    100044: Electric_track_holder_1
+    100046: Electric_track_holder_2
+    100048: Electric_track_holder_3
+    100050: Electric_track_holder_4
+    100052: //RootNode
+    100054: Electrical_board
+    100056: Electrical_Hood
+    400000: Electric_track_1way
+    400002: Electric_track_1way1
+    400004: Electric_track_1wayCorner
+    400006: Electric_track_1wayCorner1
+    400008: Electric_track_1wayDirect
+    400010: Electric_track_2way
+    400012: Electric_track_2way1
+    400014: Electric_track_2way2
+    400016: Electric_track_2wayCorner
+    400018: Electric_track_2wayCorner1
+    400020: Electric_track_2wayDirect
+    400022: Electric_track_3way
+    400024: Electric_track_3way1
+    400026: Electric_track_3wayCorner
+    400028: Electric_track_3wayCorner1
+    400030: Electric_track_3wayDirect
+    400032: Electric_track_4way
+    400034: Electric_track_4way1
+    400036: Electric_track_4wayCorner
+    400038: Electric_track_4wayCorner 1
+    400040: Electric_track_4wayCorner1
+    400042: Electric_track_4wayDirect
+    400044: Electric_track_holder_1
+    400046: Electric_track_holder_2
+    400048: Electric_track_holder_3
+    400050: Electric_track_holder_4
+    400052: //RootNode
+    400054: Electrical_board
+    400056: Electrical_Hood
+    2300000: Electric_track_1way
+    2300002: Electric_track_1way1
+    2300004: Electric_track_1wayCorner
+    2300006: Electric_track_1wayCorner1
+    2300008: Electric_track_1wayDirect
+    2300010: Electric_track_2way
+    2300012: Electric_track_2way1
+    2300014: Electric_track_2way2
+    2300016: Electric_track_2wayCorner
+    2300018: Electric_track_2wayCorner1
+    2300020: Electric_track_2wayDirect
+    2300022: Electric_track_3way
+    2300024: Electric_track_3way1
+    2300026: Electric_track_3wayCorner
+    2300028: Electric_track_3wayCorner1
+    2300030: Electric_track_3wayDirect
+    2300032: Electric_track_4way
+    2300034: Electric_track_4way1
+    2300036: Electric_track_4wayCorner 1
+    2300038: Electric_track_4wayCorner1
+    2300040: Electric_track_4wayDirect
+    2300042: Electric_track_holder_1
+    2300044: Electric_track_holder_2
+    2300046: Electric_track_holder_3
+    2300048: Electric_track_holder_4
+    2300050: Electrical_board
+    2300052: Electrical_Hood
+    2300054: Electric_track_4wayCorner
+    3300000: Electric_track_1way
+    3300002: Electric_track_1way1
+    3300004: Electric_track_1wayCorner
+    3300006: Electric_track_1wayCorner1
+    3300008: Electric_track_1wayDirect
+    3300010: Electric_track_2way
+    3300012: Electric_track_2way1
+    3300014: Electric_track_2way2
+    3300016: Electric_track_2wayCorner
+    3300018: Electric_track_2wayCorner1
+    3300020: Electric_track_2wayDirect
+    3300022: Electric_track_3way
+    3300024: Electric_track_3way1
+    3300026: Electric_track_3wayCorner
+    3300028: Electric_track_3wayCorner1
+    3300030: Electric_track_3wayDirect
+    3300032: Electric_track_4way
+    3300034: Electric_track_4way1
+    3300036: Electric_track_4wayCorner 1
+    3300038: Electric_track_4wayCorner1
+    3300040: Electric_track_4wayDirect
+    3300042: Electric_track_holder_1
+    3300044: Electric_track_holder_2
+    3300046: Electric_track_holder_3
+    3300048: Electric_track_holder_4
+    3300050: Electrical_board
+    3300052: Electrical_Hood
+    3300054: Electric_track_4wayCorner
+    4300000: Electrical_board
+    4300002: Electric_track_4way
+    4300004: Electric_track_4wayDirect
+    4300006: Electrical_Hood
+    4300008: Electric_track_4way1
+    4300010: Electric_track_3way
+    4300012: Electric_track_3way1
+    4300014: Electric_track_2way
+    4300016: Electric_track_2way1
+    4300018: Electric_track_2way2
+    4300020: Electric_track_1way
+    4300022: Electric_track_3wayDirect
+    4300024: Electric_track_2wayDirect
+    4300026: Electric_track_1wayDirect
+    4300028: Electric_track_holder_4
+    4300030: Electric_track_holder_3
+    4300032: Electric_track_holder_2
+    4300034: Electric_track_holder_1
+    4300036: Electric_track_1way1
+    4300038: Electric_track_1wayCorner
+    4300040: Electric_track_2wayCorner
+    4300042: Electric_track_3wayCorner
+    4300044: Electric_track_4wayCorner
+    4300046: Electric_track_4wayCorner1
+    4300048: Electric_track_1wayCorner1
+    4300050: Electric_track_2wayCorner1
+    4300052: Electric_track_3wayCorner1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - FocalLength
+    - FilmWidth
+    - FilmHeight
+    - NearPlane
+    - FarPlane
+    - CameraProjectionType
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
